@@ -1,2 +1,2 @@
-# compiler
-FOR ANNA UNIVERSITY LAB R2021
+# hack code using c
+
